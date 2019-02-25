@@ -1,7 +1,7 @@
 package devy.temp.spring.sqlite.controller;
 
 import devy.temp.spring.sqlite.service.ExamService;
-import devy.temp.spring.sqlite.service.domain.Exam;
+import devy.temp.spring.sqlite.domain.Exam;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

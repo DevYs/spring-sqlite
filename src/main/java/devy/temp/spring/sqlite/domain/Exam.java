@@ -1,4 +1,4 @@
-package devy.temp.spring.sqlite.service.domain;
+package devy.temp.spring.sqlite.domain;
 
 public class Exam {
 
