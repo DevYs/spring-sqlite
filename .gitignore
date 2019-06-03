@@ -27,3 +27,4 @@ sqlite.db
 /dist/
 /nbdist/
 /.nb-gradle/
+
